@@ -67,3 +67,4 @@ ssl/
 out/
 .idea_modules/
 
+get-pip.py
